@@ -97,7 +97,7 @@ namespace HastaneRezervasyonProjesi
             // 
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(607, 13);
+            this.pictureBox1.Location = new System.Drawing.Point(594, 13);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(7, 4, 7, 4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(508, 305);
@@ -109,7 +109,7 @@ namespace HastaneRezervasyonProjesi
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe Script", 26F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(133, 80);
+            this.label1.Location = new System.Drawing.Point(92, 62);
             this.label1.Margin = new System.Windows.Forms.Padding(7, 0, 7, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(382, 174);

@@ -115,7 +115,7 @@ namespace HastaneRezervasyonProjesi
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Segoe Script", 20F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label4.Location = new System.Drawing.Point(49, 45);
+            this.label4.Location = new System.Drawing.Point(37, 44);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(421, 134);
             this.label4.TabIndex = 7;

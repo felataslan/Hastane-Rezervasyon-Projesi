@@ -220,12 +220,13 @@ namespace HastaneRezervasyonProjesi
             // 
             // btnCikis
             // 
+            this.btnCikis.BackColor = System.Drawing.Color.Red;
             this.btnCikis.Location = new System.Drawing.Point(11, 78);
             this.btnCikis.Name = "btnCikis";
             this.btnCikis.Size = new System.Drawing.Size(324, 45);
             this.btnCikis.TabIndex = 3;
             this.btnCikis.Text = "Çıkış";
-            this.btnCikis.UseVisualStyleBackColor = true;
+            this.btnCikis.UseVisualStyleBackColor = false;
             this.btnCikis.Click += new System.EventHandler(this.button4_Click);
             // 
             // btnDuyuru
